@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Studies of silver spheroidal particles for the improvement of OLED light extraction"
+version: "v1.0.0"
+date-released: "2012-07-13"
+doi: "<DOI from Zenodo once minted>"
+repository-code: "https://github.com/gmongell"
+authors:
+  - family-names: "Mongelli"
+    given-names: "Guy Francis"
+    orcid: "https://orcid.org/0000-0002-2160-2778"
+preferred-citation:
+  type: thesis
+  title: "<Planned JOSS/arXiv paper title>"
+  authors:
+    - family-names: "Mongelli"
+      given-names: "Guy Francis"
+  year: 2012
+  doi: "<paper DOI once available>"
+  journal: "<Journal of Open Source Software (planned) or arXiv>"
